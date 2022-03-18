@@ -1,6 +1,6 @@
 # CS362 
 
-This repository codes submitted for CS326 Assignments
+This repository codes submitted for CS362 Assignments
 
 ## Team Members
 
